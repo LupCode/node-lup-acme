@@ -1,2 +1,2 @@
-# node-lup-acme
+# lup-acme
 Express middleware that automatically creates LetsEncrypt SSL certificates
